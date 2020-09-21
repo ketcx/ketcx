@@ -1,7 +1,10 @@
-### Hi there 👋 I'm Armin, I'm a Remote Software Developer from DR 🇩🇴
+## Hi there 👋 I'm Armin!
 
+### I'm a Remote Software Developer from DR 🇩🇴
 
-Here are some ideas to get you started:
+![image](https://github.com/ketcx/ketcx/blob/master/ai.gif)
+
+## About Me
 
 - 🔭 I’m currently working on VioX AI, Blipevolution & Madewithcana
 - 🌱 I’m currently learning Machine Learning & Data Science
