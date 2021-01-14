@@ -1,21 +1,51 @@
-## Hi there 👋  I'm Armin!
+## Hi there! 
 
-### I'm a Remote Software Developer from DR 🇩🇴
 
-![image](https://github.com/ketcx/ketcx/blob/master/ai.gif)
+```python
+
+yourname = input("Enter your name: ")
+
+print("Hello {}!. 👋  I'm Armin!".format(yourname))
+
+```
+
+### I'm a Machine Learning Engineer from DR 🇩🇴
+
+![image](https://github.com/ketcx/ketcx/blob/master/cover.png)
 
 ## About Me
 
-- 🔭 I’m currently working on VioX AI, Blipevolution & Madewithcana
+<p>
+Hi, I'm Armando (a.k.a., Armin Medx), a Machine Learning Engineer with more than 10 years of experience undertaking projects in the field of software development. I recently worked in the automation of a contact center and the creation of mobile apps using React Native. I’d love to combine my passion for machine learning, especially natural language processing (NLP), with my software development skills to continue creating intelligent products that make the world a better place. 
+</p>
 
-- 🌱 I’m currently learning Machine Learning & Data Science
+<p>
+<b>🔭&nbsp;&nbsp;&nbsp;Skills:</b> 
 
-- 👯 I’m looking to collaborate on great projects
+* Python
+* Scikit Learn
+* Tensorflow
+* Keras
+* Pytorch
+* Javascript
+* React / React Native
+* SQL
+* NodeJS
+* Microsoft Azure (Cognitive Services & Azure Machine Learning)
+* Amazon AWS (SageMaker)
+* IBM Cloud (IBM Watson Studio).
+* Scala
+* Spark
+</p>
+<hr style="border: 1px dashed blue;margin:1em"/>
+<p>
 
-- 🤔 I’m looking for help with Pytorch & Spark
+- 🌱&nbsp;&nbsp;&nbsp;I’m currently learning Machine Learning & Data Science
 
-- 💬 Ask me about Anything
+- 🤔&nbsp;&nbsp;&nbsp;I’m looking to collaborate on great projects
 
-- 📫 How to reach me: [Twitter](https://twitter.com/niux)
+- 💬&nbsp;&nbsp;&nbsp;Ask me about Anything
 
+- 📫&nbsp;&nbsp;&nbsp;How to reach me: [Twitter](https://twitter.com/niux) | [Email](mailto://armin.medinaf@gmail.com) | [Whatsapp](https://api.whatsapp.com/send?phone=18294199464)
+</p>
 
