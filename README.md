@@ -40,7 +40,7 @@ Hi, I'm Armando (a.k.a., Armin Medx), a Machine Learning Engineer with more than
 <hr style="border: 1px dashed blue;margin:1em"/>
 <p>
 
-- 🌱&nbsp;&nbsp;&nbsp;I’m currently learning Machine Learning & Data Science
+- 🌱&nbsp;&nbsp;&nbsp;I'm currently passionate machine learning & data-driven projects
 
 - 🤔&nbsp;&nbsp;&nbsp;I’m looking to collaborate on great projects
 
