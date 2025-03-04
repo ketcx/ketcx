@@ -49,3 +49,4 @@ Hi, I'm Armando (a.k.a., Armin Medx), a Machine Learning Engineer with more than
 - 📫&nbsp;&nbsp;&nbsp;How to reach me: [Twitter](https://twitter.com/niux) | [Email](mailto://armin.medinaf@gmail.com) | [Whatsapp](https://api.whatsapp.com/send?phone=18294199464)
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ketcx&show_icons=true&locale=en&layout=compact" alt="ketcx" /></p>
